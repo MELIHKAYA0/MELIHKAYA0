@@ -1,7 +1,7 @@
 # Selam, ben Melih! 👋
 
 ### 👨‍💻 Hakkımda
-Yazılım Mühendisliği 1. sınıf öğrencisiyim. Kendimi hem alt seviye dillerde (C gibi) hem de modern web teknolojilerinde geliştiriyorum. Öğrendiklerimi projeye dönüştürmeyi seviyorum.
+Yazılım Mühendisliği öğrencisiyim. Kendimi hem alt seviye dillerde (C gibi) hem de modern web teknolojilerinde geliştiriyorum. Öğrendiklerimi projeye dönüştürmeyi seviyorum.
 
 ### 🛠 Teknolojiler ve Araçlar
 * **Diller:** C, Python, SQL
@@ -22,7 +22,7 @@ Yazılım Mühendisliği 1. sınıf öğrencisiyim. Kendimi hem alt seviye dille
 # Hi, I'm Melih! 👋
 
 ### 👨‍💻 About Me
-I am a 1st-year Software Engineering student. I am developing myself in both low-level languages (like C) and modern web technologies. I love turning what I learn into projects.
+I am a Software Engineering student. I am developing myself in both low-level languages (like C) and modern web technologies. I love turning what I learn into projects.
 
 ### 🛠 Technologies & Tools
 * **Languages:** C, Python, SQL
