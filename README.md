@@ -1,16 +1,24 @@
-## Hi there 👋
+# Selam, ben Melih! 👋
 
-<!--
-**MELIHKAYA0/MELIHKAYA0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Hakkımda
+Yazılım Mühendisliği öğrencisiyim. Kendimi hem alt seviye dillerde (C gibi) hem de modern web teknolojilerinde geliştiriyorum. Öğrendiklerimi projeye dönüştürmeyi seviyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Teknolojiler ve Araçlar
+* **Diller:** C, Python, SQL
+* **Web:** HTML5, CSS3
+* **Araçlar:** Git, GitHub, VS Code
+* **Eğitimler:** CS50, BTK Akademi C Programlama, Algoritma Temelleri
+
+---
+
+### 🚀 Şu An Neler Yapıyorum?
+* Algoritma yeteneklerimi C ile pekiştiriyorum.
+* Web geliştirme dünyasına giriş yapıyorum (HTML/CSS projeleri).
+* GitHub profilimi daha profesyonel bir portfolyoya dönüştürüyorum.
+
+---
+
+### 📫 İletişim
+* **LinkedIn:** https://www.linkedin.com/in/melih-kaya-80aba4398/
