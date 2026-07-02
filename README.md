@@ -1,10 +1,10 @@
 # Selam, ben Melih! 👋
 
 ### 👨‍💻 Hakkımda
-Yazılım Mühendisliği öğrencisiyim. Kendimi hem alt seviye dillerde (C gibi) hem de modern web teknolojilerinde geliştiriyorum. Öğrendiklerimi projeye dönüştürmeyi seviyorum.
+Yazılım Mühendisliği öğrencisiyim. Kendimi modern web teknolojilerinde geliştiriyorum. Öğrendiklerimi projeye dönüştürmeyi seviyorum.
 
 ### 🛠 Teknolojiler ve Araçlar
-* **Diller:** C, Python, SQL
+* **Diller:** C, Python, SQL,
 * **Web:** HTML5, CSS3
 * **Araçlar:** Git, GitHub, VS Code
 * **Eğitimler:** CS50, BTK Akademi C Programlama, Algoritma Temelleri
